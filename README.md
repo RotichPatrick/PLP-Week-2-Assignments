@@ -1,5 +1,4 @@
-# PLP-Week-2-Assignments
-Setup Development Environment
+# Setup Development Environment
 
 #Assignment: Setting Up Your Developer Environment
 
